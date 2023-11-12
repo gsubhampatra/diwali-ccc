@@ -19,7 +19,7 @@ $(function() {
 	// objects
 	var listFire = [];
 	var listFirework = [];
-	var listText = [];
+	var listText = []; 
 	var listSpecial = [];
 	var listSpark = [];
 	var lights = [];
